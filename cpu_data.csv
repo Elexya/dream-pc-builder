@@ -1,0 +1,50 @@
+Type,Part Number,Brand,Model,Rank,Benchmark,Samples,URL,cpu Name,Price
+CPU,BX8071514900KS,Intel,Core i9-14900KS,1,133.0,189,https://cpu.userbenchmark.com/SpeedTest/2295306/IntelR-CoreTM-i9-14900KS,Intel Core i9-14900KS,548
+CPU,BX8071514900KF,Intel,Core i9-14900KF,2,131.0,4811,https://cpu.userbenchmark.com/SpeedTest/2212218/IntelR-CoreTM-i9-14900KF,Intel Core i9-14900KF,548
+CPU,BX8071514900K,Intel,Core i9-14900K,3,131.0,8839,https://cpu.userbenchmark.com/Intel-Core-i9-14900K/Rating/4151,Intel Core i9-14900K,548
+CPU,BX8071513900KS,Intel,Core i9-13900KS,4,131.0,4204,https://cpu.userbenchmark.com/SpeedTest/2000819/13th-Gen-IntelR-CoreTM-i9-13900KS,Intel Core i9-13900KS,459
+CPU,BX8071514700K,Intel,Core i7-14700K,5,130.0,6042,https://cpu.userbenchmark.com/Intel-Core-i7-14700K/Rating/4152,Intel Core i7-14700K,381
+CPU,BX8071514700KF,Intel,Core i7-14700KF,6,130.0,2777,https://cpu.userbenchmark.com/SpeedTest/2212020/IntelR-CoreTM-i7-14700KF,Intel Core i7-14700KF,375
+CPU,BX8071513900KF,Intel,Core i9-13900KF,7,129.0,16914,https://cpu.userbenchmark.com/SpeedTest/1946957/13th-Gen-IntelR-CoreTM-i9-13900KF,Intel Core i9-13900KF,459
+CPU,BX8071513900K,Intel,Core i9-13900K,8,129.0,49132,https://cpu.userbenchmark.com/Intel-Core-i9-13900K/Rating/4129,Intel Core i9-13900K,459
+CPU,BX8071513700KF,Intel,Core i7-13700KF,9,126.0,20009,https://cpu.userbenchmark.com/SpeedTest/1925886/13th-Gen-IntelR-CoreTM-i7-13700KF,Intel Core i7-13700KF,291
+CPU,BX8071513700K,Intel,Core i7-13700K,10,126.0,41056,https://cpu.userbenchmark.com/Intel-Core-i7-13700K/Rating/4137,Intel Core i7-13700K,329
+CPU,BX8071514900,Intel,Core i9-14900,11,124.0,85,https://cpu.userbenchmark.com/SpeedTest/2278149/IntelR-CoreTM-i9-14900,Intel Core i9-14900,579
+CPU,BX8071513900F,Intel,Core i9-13900F,12,124.0,824,https://cpu.userbenchmark.com/SpeedTest/1994287/13th-Gen-IntelR-CoreTM-i9-13900F,Intel Core i9-13900F,459
+CPU,BX8071514600KF,Intel,Core i5-14600KF,13,124.0,3612,https://cpu.userbenchmark.com/SpeedTest/2213004/IntelR-CoreTM-i5-14600KF,Intel Core i5-14600KF,293
+CPU,BX8071513900,Intel,Core i9-13900,14,124.0,685,https://cpu.userbenchmark.com/SpeedTest/1977296/13th-Gen-IntelR-CoreTM-i9-13900,Intel Core i9-13900,579
+CPU,BX8071514600K,Intel,Core i5-14600K,15,124.0,1700,https://cpu.userbenchmark.com/Intel-Core-i5-14600K/Rating/4153,Intel Core i5-14600K,305
+CPU,BX8071514900F,Intel,Core i9-14900F,16,123.0,129,https://cpu.userbenchmark.com/SpeedTest/2277046/IntelR-CoreTM-i9-14900F,Intel Core i9-14900F,528
+CPU,BX8071513600K,Intel,Core i5-13600K,17,122.0,27559,https://cpu.userbenchmark.com/Intel-Core-i5-13600K/Rating/4134,Intel Core i5-13600K,259
+CPU,BX8071513600KF,Intel,Core i5-13600KF,18,122.0,24875,https://cpu.userbenchmark.com/SpeedTest/1950757/13th-Gen-IntelR-CoreTM-i5-13600KF,Intel Core i5-13600KF,259
+CPU,BX8071513700,Intel,Core i7-13700,19,121.0,2103,https://cpu.userbenchmark.com/SpeedTest/1963418/13th-Gen-IntelR-CoreTM-i7-13700,Intel Core i7-13700,329
+CPU,BX8071513700F,Intel,Core i7-13700F,20,121.0,5633,https://cpu.userbenchmark.com/SpeedTest/1997481/13th-Gen-IntelR-CoreTM-i7-13700F,Intel Core i7-13700F,360
+CPU,BX8071514700,Intel,Core i7-14700,21,120.0,293,https://cpu.userbenchmark.com/SpeedTest/2275244/IntelR-CoreTM-i7-14700,Intel Core i7-14700,399
+CPU,BX8071514700F,Intel,Core i7-14700F,22,120.0,836,https://cpu.userbenchmark.com/SpeedTest/2271502/IntelR-CoreTM-i7-14700F,Intel Core i7-14700F,366
+CPU,100-100000908WOF,AMD,Ryzen 9 7950X3D,23,120.0,876,https://cpu.userbenchmark.com/SpeedTest/2052977/AMD-Ryzen-9-7950X3D-16-Core-Processor,AMD Ryzen 9 7950X3D,546
+CPU,BX8071512900KS,Intel,Core i9-12900KS,24,119.0,7188,https://cpu.userbenchmark.com/SpeedTest/1821519/12th-Gen-IntelR-CoreTM-i9-12900KS,Intel Core i9-12900KS,384
+CPU,,Intel,Core i9-14900HX,25,118.0,563,https://cpu.userbenchmark.com/SpeedTest/2269186/IntelR-CoreTM-i9-14900HX,Intel Core i9-14900HX,579
+CPU,100-100000909WOF,AMD,Ryzen 9 7900X3D,26,117.0,706,https://cpu.userbenchmark.com/SpeedTest/2053257/AMD-Ryzen-9-7900X3D-12-Core-Processor,AMD Ryzen 9 7900X3D,397
+CPU,,Intel,Core i9-13980HX,27,117.0,4493,https://cpu.userbenchmark.com/SpeedTest/2030055/13th-Gen-IntelR-CoreTM-i9-13980HX,Intel Core i9-13980HX,2499
+CPU,BX8071512900KF,Intel,Core i9-12900KF,28,117.0,15291,https://cpu.userbenchmark.com/SpeedTest/1685583/12th-Gen-IntelR-CoreTM-i9-12900KF,Intel Core i9-12900KF,272
+CPU,100-100000910WOF,AMD,Ryzen 7 7800X3D,29,117.0,4385,https://cpu.userbenchmark.com/SpeedTest/2081998/AMD-Ryzen-7-7800X3D-8-Core-Processor,AMD Ryzen 7 7800X3D,339
+CPU,BX8071512900K,Intel,Core i9-12900K,30,117.0,66991,https://cpu.userbenchmark.com/Intel-Core-i9-12900K/Rating/4118,Intel Core i9-12900K,579
+CPU,,Intel,Core i9-13950HX,31,116.0,1063,https://cpu.userbenchmark.com/SpeedTest/2033250/13th-Gen-IntelR-CoreTM-i9-13950HX,Intel Core i9-13950HX,459
+CPU,BX8071513600,Intel,Core i5-13600,32,116.0,103,https://cpu.userbenchmark.com/SpeedTest/2013466/13th-Gen-IntelR-CoreTM-i5-13600,Intel Core i5-13600,259
+CPU,BX8071514600,Intel,Core i5-14600,33,115.0,29,https://cpu.userbenchmark.com/SpeedTest/2279170/IntelR-CoreTM-i5-14600,Intel Core i5-14600,239
+CPU,,Intel,Core i9-13900HX,34,115.0,8895,https://cpu.userbenchmark.com/SpeedTest/2023039/13th-Gen-IntelR-CoreTM-i9-13900HX,Intel Core i9-13900HX,2479
+CPU,BX8071512700K,Intel,Core i7-12700K,35,114.0,78749,https://cpu.userbenchmark.com/Intel-Core-i7-12700K/Rating/4119,Intel Core i7-12700K,409
+CPU,BX8071512700KF,Intel,Core i7-12700KF,36,114.0,70812,https://cpu.userbenchmark.com/SpeedTest/1699429/12th-Gen-IntelR-CoreTM-i7-12700KF,Intel Core i7-12700KF,409
+CPU,100-100000514WOF,AMD,Ryzen 9 7950X,37,114.0,3143,https://cpu.userbenchmark.com/AMD-Ryzen-9-7950X/Rating/4133,AMD Ryzen 9 7950X,486
+CPU,BX8071514500,Intel,Core i5-14500,38,114.0,130,https://cpu.userbenchmark.com/SpeedTest/2255984/IntelR-CoreTM-i5-14500,Intel Core i5-14500,239
+CPU,100-100000589WOF,AMD,Ryzen 9 7900X,39,113.0,4545,https://cpu.userbenchmark.com/AMD-Ryzen-9-7900X/Rating/4132,AMD Ryzen 9 7900X,364
+CPU,BX8071512900F,Intel,Core i9-12900F,40,113.0,1540,https://cpu.userbenchmark.com/SpeedTest/1757838/12th-Gen-IntelR-CoreTM-i9-12900F,Intel Core i9-12900F,362
+CPU,BX8071513500,Intel,Core i5-13500,41,113.0,3785,https://cpu.userbenchmark.com/Intel-Core-i5-13500/Rating/4147,Intel Core i5-13500,239
+CPU,100-100000591WOF,AMD,Ryzen 7 7700X,42,112.0,4548,https://cpu.userbenchmark.com/AMD-Ryzen-7-7700X/Rating/4131,AMD Ryzen 7 7700X,278
+CPU,,Intel,Core i7-13850HX,43,111.0,152,https://cpu.userbenchmark.com/SpeedTest/2085967/13th-Gen-IntelR-CoreTM-i7-13850HX,Intel Core i7-13850HX,291
+CPU,,Intel,Core i7-14700HX,44,111.0,86,https://cpu.userbenchmark.com/SpeedTest/2222576/IntelR-CoreTM-i7-14700HX,Intel Core i7-14700HX,381
+CPU,BX8071512900,Intel,Core i9-12900,45,111.0,2410,https://cpu.userbenchmark.com/SpeedTest/1668917/12th-Gen-IntelR-CoreTM-i9-12900,Intel Core i9-12900,579
+CPU,100-100000593WOF,AMD,Ryzen 5 7600X,46,110.0,6311,https://cpu.userbenchmark.com/AMD-Ryzen-5-7600X/Rating/4130,AMD Ryzen 5 7600X,199
+CPU,100-100000592BOX,AMD,Ryzen 7 7700,47,109.0,627,https://cpu.userbenchmark.com/SpeedTest/2016389/AMD-Ryzen-7-7700-8-Core-Processor,AMD Ryzen 7 7700,278
+CPU,100-100000590BOX,AMD,Ryzen 9 7900,48,109.0,672,https://cpu.userbenchmark.com/SpeedTest/2015863/AMD-Ryzen-9-7900-12-Core-Processor,AMD Ryzen 9 7900,368
+CPU,BX8071512600KF,Intel,Core i5-12600KF,49,109.0,40032,https://cpu.userbenchmark.com/SpeedTest/1700734/12th-Gen-IntelR-CoreTM-i5-12600KF,Intel Core i5-12600KF,158

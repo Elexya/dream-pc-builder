@@ -1,0 +1,50 @@
+Type,Part Number,Brand,Model,Rank,Benchmark,Samples,URL,GPU Name,Price
+GPU,,Nvidia,RTX 4090,1,370.0,25956,https://gpu.userbenchmark.com/Nvidia-RTX-4090/Rating/4136,Nvidia RTX 4090,1499
+GPU,GV-N4090GAMING OC-24GD,Gigabyte,Gigabyte RTX 4090 24GB Gaming OC,1,370.0,25956,https://gpu.userbenchmark.com/Nvidia-RTX-4090/Rating/4136,Gigabyte Gigabyte RTX 4090 24GB Gaming OC,1773
+GPU,TUF-RTX4090-24G-GAMING,Asus,Asus RTX 4090 24GB TUF Gaming OC,1,370.0,25956,https://gpu.userbenchmark.com/Nvidia-RTX-4090/Rating/4136,Asus Asus RTX 4090 24GB TUF Gaming OC,1749
+GPU,GeForce RTX 4090 GAMING X TRIO 24G,MSI,MSI RTX 4090 24GB Gaming X Trio,1,370.0,25956,https://gpu.userbenchmark.com/Nvidia-RTX-4090/Rating/4136,MSI MSI RTX 4090 24GB Gaming X Trio,2138
+GPU,RTX 4090 SUPRIM Liquid X 24G,MSI,MSI RTX 4090 24GB Suprim Liquid X,1,370.0,25956,https://gpu.userbenchmark.com/Nvidia-RTX-4090/Rating/4136,MSI MSI RTX 4090 24GB Suprim Liquid X,1999
+GPU,RTX 4090 SUPRIM X 24G,MSI,MSI RTX 4090 24GB Suprim X,1,370.0,25956,https://gpu.userbenchmark.com/Nvidia-RTX-4090/Rating/4136,MSI MSI RTX 4090 24GB Suprim X,1199
+GPU,GV-N4090WF3V2-24GD,Gigabyte,Gigabyte RTX 4090 24GB Gaming OC V2,1,370.0,25956,https://gpu.userbenchmark.com/Nvidia-RTX-4090/Rating/4136,Gigabyte Gigabyte RTX 4090 24GB Gaming OC V2,1499
+GPU,,Nvidia,RTX 4080-S (Super),2,300.0,3474,https://gpu.userbenchmark.com/Nvidia-RTX-4080-S-Super/Rating/4156,Nvidia RTX 4080-S (Super),1069
+GPU,VCG4080S16TFXPB1-O,PNY,PNY RTX 4080 Super 16GB Verto Triple,2,300.0,3474,https://gpu.userbenchmark.com/Nvidia-RTX-4080-S-Super/Rating/4156,PNY PNY RTX 4080 Super 16GB Verto Triple,1009
+GPU,ZT-D40820B-10P,Zotac,Zotac RTX 4080 Super 16GB Amp Airo,2,300.0,3474,https://gpu.userbenchmark.com/Nvidia-RTX-4080-S-Super/Rating/4156,Zotac Zotac RTX 4080 Super 16GB Amp Airo,1199
+GPU,,Nvidia,RTX 4080,3,290.0,22998,https://gpu.userbenchmark.com/Nvidia-RTX-4080/Rating/4138,Nvidia RTX 4080,1069
+GPU,RTX 4080 16GB GAMING X TRIO,MSI,MSI RTX 4080 16GB Gaming X Trio,3,290.0,22998,https://gpu.userbenchmark.com/Nvidia-RTX-4080/Rating/4138,MSI MSI RTX 4080 16GB Gaming X Trio,1279
+GPU,GV-N4080GAMING OC-16GD,Gigabyte,Gigabyte RTX 4080 16GB Gaming OC,3,290.0,22998,https://gpu.userbenchmark.com/Nvidia-RTX-4080/Rating/4138,Gigabyte Gigabyte RTX 4080 16GB Gaming OC,1099
+GPU,ZT-D40810B-10P,Zotac,Zotac RTX 4080 16GB AMP Extreme,3,290.0,22998,https://gpu.userbenchmark.com/Nvidia-RTX-4080/Rating/4138,Zotac Zotac RTX 4080 16GB AMP Extreme,1199
+GPU,G408016SX,MSI,MSI RTX 4080 16GB Suprim X,3,290.0,22998,https://gpu.userbenchmark.com/Nvidia-RTX-4080/Rating/4138,MSI MSI RTX 4080 16GB Suprim X,1199
+GPU,RTX 4080 16GB VENTUS 3X OC,MSI,MSI RTX 4080 16GB Ventus 3X,3,290.0,22998,https://gpu.userbenchmark.com/Nvidia-RTX-4080/Rating/4138,MSI MSI RTX 4080 16GB Ventus 3X,1029
+GPU,TUF-RTX4080-O16G-GAMING,Asus,Asus RTX 4080 16GB TUF Gaming OC,3,290.0,22998,https://gpu.userbenchmark.com/Nvidia-RTX-4080/Rating/4138,Asus Asus RTX 4080 16GB TUF Gaming OC,1099
+GPU,VCG4080S16TFXPB1-O,PNY,PNY RTX 4080 16GB Verto Triple,3,290.0,22998,https://gpu.userbenchmark.com/Nvidia-RTX-4080/Rating/4138,PNY PNY RTX 4080 16GB Verto Triple,1009
+GPU,,AMD,RX 7900-XTX,4,257.0,5548,https://gpu.userbenchmark.com/AMD-RX-7900-XTX/Rating/4142,AMD RX 7900-XTX,911
+GPU,,Nvidia,RTX 4070-TS (Ti-Super),5,250.0,5026,https://gpu.userbenchmark.com/Nvidia-RTX-4070-TS-Ti-Super/Rating/4155,Nvidia RTX 4070-TS (Ti-Super),849
+GPU,VCG4070TS16TFXPB1-O,PNY,PNY RTX 4070 Ti Super 16GB Verto Triple,5,250.0,5026,https://gpu.userbenchmark.com/Nvidia-RTX-4070-TS-Ti-Super/Rating/4155,PNY PNY RTX 4070 Ti Super 16GB Verto Triple,779
+GPU,RTX 4070 Ti SUPER 16G VENTUS 2X OC,MSI,MSI RTX 4070 Ti Super 16GB Ventus 2x,5,250.0,5026,https://gpu.userbenchmark.com/Nvidia-RTX-4070-TS-Ti-Super/Rating/4155,MSI MSI RTX 4070 Ti Super 16GB Ventus 2x,799
+GPU,ZT-D40730D-10P,Zotac,Zotac RTX 4070 Ti Super 16GB Trinity,5,250.0,5026,https://gpu.userbenchmark.com/Nvidia-RTX-4070-TS-Ti-Super/Rating/4155,Zotac Zotac RTX 4070 Ti Super 16GB Trinity,839
+GPU,,Nvidia,RTX 4070-Ti,6,240.0,46082,https://gpu.userbenchmark.com/Nvidia-RTX-4070-Ti/Rating/4146,Nvidia RTX 4070-Ti,825
+GPU,RTX 4070 Ti GAMING X TRIO 12G,MSI,MSI RTX 4070 Ti 12GB Gaming X Trio,6,240.0,46082,https://gpu.userbenchmark.com/Nvidia-RTX-4070-Ti/Rating/4146,MSI MSI RTX 4070 Ti 12GB Gaming X Trio,896
+GPU,GeForce RTX 4070 Ti VENTUS 3X 12G OC,MSI,MSI RTX 4070 Ti 12GB Ventus 3X OC,6,240.0,46082,https://gpu.userbenchmark.com/Nvidia-RTX-4070-Ti/Rating/4146,MSI MSI RTX 4070 Ti 12GB Ventus 3X OC,805
+GPU,ZT-D40710D-10P,Zotac,Zotac RTX 4070 Ti 12GB Trinity,6,240.0,46082,https://gpu.userbenchmark.com/Nvidia-RTX-4070-Ti/Rating/4146,Zotac Zotac RTX 4070 Ti 12GB Trinity,829
+GPU,ZT-D40710J-10P,Zotac,Zotac RTX 4070 Ti 12GB Trinity,6,240.0,46082,https://gpu.userbenchmark.com/Nvidia-RTX-4070-Ti/Rating/4146,Zotac Zotac RTX 4070 Ti 12GB Trinity,829
+GPU,TUF-RTX4070TI-O12G-GAMING,Asus,Asus RTX 4070 Ti 12GB TUF Gaming OC,6,240.0,46082,https://gpu.userbenchmark.com/Nvidia-RTX-4070-Ti/Rating/4146,Asus Asus RTX 4070 Ti 12GB TUF Gaming OC,858
+GPU,GV-N407TEAGLE OC-12GD,Gigabyte,Gigabyte RTX 4070 Ti 12GB Eagle OC,6,240.0,46082,https://gpu.userbenchmark.com/Nvidia-RTX-4070-Ti/Rating/4146,Gigabyte Gigabyte RTX 4070 Ti 12GB Eagle OC,829
+GPU,TUF-RTX4070TI-12G-GAMING,Asus,Asus RTX 4070 Ti 12GB TUF Gaming,6,240.0,46082,https://gpu.userbenchmark.com/Nvidia-RTX-4070-Ti/Rating/4146,Asus Asus RTX 4070 Ti 12GB TUF Gaming,858
+GPU,GV-N407TGAMING OC-12GD,Gigabyte,Gigabyte RTX 4070 Ti 12GB 3X OC,6,240.0,46082,https://gpu.userbenchmark.com/Nvidia-RTX-4070-Ti/Rating/4146,Gigabyte Gigabyte RTX 4070 Ti 12GB 3X OC,965
+GPU,GeForce RTX 4070 Ti GAMING X SLIM 12G,MSI,MSI RTX 4070 Ti 12GB Gaming X Slim,6,240.0,46082,https://gpu.userbenchmark.com/Nvidia-RTX-4070-Ti/Rating/4146,MSI MSI RTX 4070 Ti 12GB Gaming X Slim,809
+GPU,,Nvidia,RTX 3090-Ti,7,232.0,16406,https://gpu.userbenchmark.com/SpeedTest/1818101/NVIDIA-GeForce-RTX-3090-Ti,Nvidia RTX 3090-Ti,799
+GPU,,AMD,RX 7900-XT,8,220.0,6228,https://gpu.userbenchmark.com/AMD-RX-7900-XT/Rating/4141,AMD RX 7900-XT,701
+GPU,,Nvidia,RTX 4070-S (Super),9,215.0,5908,https://gpu.userbenchmark.com/Nvidia-RTX-4070-S-Super/Rating/4154,Nvidia RTX 4070-S (Super),829
+GPU,RTX 4070 SUPER 12G VENTUS 2X OC,MSI,MSI RTX 4070 Super 12GB Ventus 2X,9,215.0,5908,https://gpu.userbenchmark.com/Nvidia-RTX-4070-S-Super/Rating/4154,MSI MSI RTX 4070 Super 12GB Ventus 2X,619
+GPU,RTX 4070 GAMING X SLIM 12G,MSI,MSI RTX 4070 Super 12GB Gaming X Slim,9,215.0,5908,https://gpu.userbenchmark.com/Nvidia-RTX-4070-S-Super/Rating/4154,MSI MSI RTX 4070 Super 12GB Gaming X Slim,642
+GPU,DUAL-RTX4070S-O12G,Asus,Asus RTX 4070 Super 12GB Dual OC,9,215.0,5908,https://gpu.userbenchmark.com/Nvidia-RTX-4070-S-Super/Rating/4154,Asus Asus RTX 4070 Super 12GB Dual OC,609
+GPU,ZT-D40720H-10M,Zotac,Zotac RTX 4070 Super 12GB Twin,9,215.0,5908,https://gpu.userbenchmark.com/Nvidia-RTX-4070-S-Super/Rating/4154,Zotac Zotac RTX 4070 Super 12GB Twin,609
+GPU,ZT-D40720D-10P,Zotac,Zotac RTX 4070 Super 12GB Trinity,9,215.0,5908,https://gpu.userbenchmark.com/Nvidia-RTX-4070-S-Super/Rating/4154,Zotac Zotac RTX 4070 Super 12GB Trinity,681
+GPU,GeForce RTX 4070 SUPER 12G VENTUS 3X OC,MSI,MSI RTX 4070 Super 12GB Ventus 3X,9,215.0,5908,https://gpu.userbenchmark.com/Nvidia-RTX-4070-S-Super/Rating/4154,MSI MSI RTX 4070 Super 12GB Ventus 3X,629
+GPU,,Nvidia,RTX 3090,10,210.0,158856,https://gpu.userbenchmark.com/Nvidia-RTX-3090/Rating/4081,Nvidia RTX 3090,979
+GPU,‎ROG-STRIX-RTX3090-O24G-GAMING,Asus,Asus RTX 3090 24GB ROG Strix,10,210.0,158856,https://gpu.userbenchmark.com/Nvidia-RTX-3090/Rating/4081,Asus Asus RTX 3090 24GB ROG Strix,1979
+GPU,‎TUF-RTX3090-O24G-GAMING,Asus,Asus RTX 3090 24GB Tuf OC,10,210.0,158856,https://gpu.userbenchmark.com/Nvidia-RTX-3090/Rating/4081,Asus Asus RTX 3090 24GB Tuf OC,999
+GPU, ‎RTX 3090 GAMING X TRIO 24G,MSI,MSI RTX 3090 24GB Gaming X Trio OC,10,210.0,158856,https://gpu.userbenchmark.com/Nvidia-RTX-3090/Rating/4081,MSI MSI RTX 3090 24GB Gaming X Trio OC,2599
+GPU,‎ZT-A30900J-10P,Zotac,Zotac RTX 3090 24GB Trinity OC,10,210.0,158856,https://gpu.userbenchmark.com/Nvidia-RTX-3090/Rating/4081,Zotac Zotac RTX 3090 24GB Trinity OC,979
+GPU,24G-P5-3987-KR,EVGA,EVGA RTX 3090 24GB XC3 Ultra Gaming,10,210.0,158856,https://gpu.userbenchmark.com/Nvidia-RTX-3090/Rating/4081,EVGA EVGA RTX 3090 24GB XC3 Ultra Gaming,1049
+GPU,GeForce RTX 3090 VENTUS 3X 24G OC,MSI,MSI RTX 3090 24GB Ventus 3X OC,10,210.0,158856,https://gpu.userbenchmark.com/Nvidia-RTX-3090/Rating/4081,MSI MSI RTX 3090 24GB Ventus 3X OC,2232
